@@ -1,0 +1,55 @@
+.add_sales_container {
+    width: 100%;
+    background: #0080c0;
+    padding: 5px;
+    border-radius: 10px;
+    display: flex;
+    flex-flow: column;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+.add_sales_container label {
+    margin-bottom: 7px;
+    color: rgb(233, 233, 233);
+    font-size: 19px;
+    width: fit-content;
+}
+
+.add_sales_container input {
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 20px;
+    outline: none;
+    border-radius: 15px;
+    border: none;
+    width: 90%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.add_sales_container .submit {
+    margin-top: 20px;
+    padding: 5px;
+    background-color: rgb(252, 164, 0);
+    font-size: 20px;
+    border: rgb(190, 124, 0) 2px solid;
+    color: #fff;
+    border-radius: 15px;
+    transition: 0.30s;
+    cursor: pointer;
+    width: 100%;
+}
+
+.add_sales_container .submit:hover {
+    background-color: rgb(190, 124, 0);
+}
+

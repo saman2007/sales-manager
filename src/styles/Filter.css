@@ -1,0 +1,10 @@
+.filter {
+    background-color: #3bbeff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 100px;
+    padding: 5px;
+    border: #00a5f8 2px solid;
+    cursor: pointer;
+    color: #fff;
+}

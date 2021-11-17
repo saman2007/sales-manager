@@ -1,0 +1,25 @@
+.chart_bar {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding: 20px;
+    height: 160px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.chart_bar .chart_inner {
+    height: 100%;
+    background-color: rgb(218, 218, 255);
+    width: 15px;
+    border-radius: 20px;
+    display: flex;
+    flex-flow: column;
+    justify-content: end;
+}
+
+.chart_bar .chart_inner .chart_fill {
+    background-color: rgb(44, 218, 0);
+    border-radius: 20px;
+    transition: 0.3s;
+}

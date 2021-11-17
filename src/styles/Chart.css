@@ -1,0 +1,9 @@
+.chart {
+    width: 100%;
+    background: #0080c0;
+    padding: 5px;
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: 15px;
+    overflow: auto;
+}

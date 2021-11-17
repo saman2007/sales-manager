@@ -1,0 +1,26 @@
+.sale_card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    min-height: 80px;
+    background-color: #3bbeff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    flex-flow: wrap;
+}
+
+.sale_card p {
+    background-color: rgb(252, 164, 0);
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: #fff;
+}
+
+@media (max-width: 576px) {
+    .sale_card p {
+        margin-bottom: 10px;
+    }
+}
