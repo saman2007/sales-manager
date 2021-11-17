@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/saman2007/sales-manager.git/static/css/main.ef043df2.chunk.css",
-    "main.js": "/saman2007/sales-manager.git/static/js/main.942203c1.chunk.js",
-    "main.js.map": "/saman2007/sales-manager.git/static/js/main.942203c1.chunk.js.map",
-    "runtime-main.js": "/saman2007/sales-manager.git/static/js/runtime-main.1a365dca.js",
-    "runtime-main.js.map": "/saman2007/sales-manager.git/static/js/runtime-main.1a365dca.js.map",
-    "static/js/2.4a966a88.chunk.js": "/saman2007/sales-manager.git/static/js/2.4a966a88.chunk.js",
-    "static/js/2.4a966a88.chunk.js.map": "/saman2007/sales-manager.git/static/js/2.4a966a88.chunk.js.map",
-    "static/js/3.25a4003c.chunk.js": "/saman2007/sales-manager.git/static/js/3.25a4003c.chunk.js",
-    "static/js/3.25a4003c.chunk.js.map": "/saman2007/sales-manager.git/static/js/3.25a4003c.chunk.js.map",
-    "index.html": "/saman2007/sales-manager.git/index.html",
-    "static/css/main.ef043df2.chunk.css.map": "/saman2007/sales-manager.git/static/css/main.ef043df2.chunk.css.map",
-    "static/js/2.4a966a88.chunk.js.LICENSE.txt": "/saman2007/sales-manager.git/static/js/2.4a966a88.chunk.js.LICENSE.txt"
+    "main.css": "/sales-manager/static/css/main.ef043df2.chunk.css",
+    "main.js": "/sales-manager/static/js/main.942203c1.chunk.js",
+    "main.js.map": "/sales-manager/static/js/main.942203c1.chunk.js.map",
+    "runtime-main.js": "/sales-manager/static/js/runtime-main.62059e29.js",
+    "runtime-main.js.map": "/sales-manager/static/js/runtime-main.62059e29.js.map",
+    "static/js/2.4a966a88.chunk.js": "/sales-manager/static/js/2.4a966a88.chunk.js",
+    "static/js/2.4a966a88.chunk.js.map": "/sales-manager/static/js/2.4a966a88.chunk.js.map",
+    "static/js/3.25a4003c.chunk.js": "/sales-manager/static/js/3.25a4003c.chunk.js",
+    "static/js/3.25a4003c.chunk.js.map": "/sales-manager/static/js/3.25a4003c.chunk.js.map",
+    "index.html": "/sales-manager/index.html",
+    "static/css/main.ef043df2.chunk.css.map": "/sales-manager/static/css/main.ef043df2.chunk.css.map",
+    "static/js/2.4a966a88.chunk.js.LICENSE.txt": "/sales-manager/static/js/2.4a966a88.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a365dca.js",
+    "static/js/runtime-main.62059e29.js",
     "static/js/2.4a966a88.chunk.js",
     "static/css/main.ef043df2.chunk.css",
     "static/js/main.942203c1.chunk.js"
