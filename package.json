@@ -1,6 +1,6 @@
 {
   "name": "1-react-project",
-  "homepage": "https://github.com/saman2007/sales-manager.git",
+  "homepage": "git@github.com:saman2007/sales-manager.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
